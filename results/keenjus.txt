@@ -1,0 +1,126 @@
+andero@AOC-VM:~/testing$ docker run keenjus -rm
+> Running solution 01/25 run 1/5
+1316
+1344
+Time: 46643
+> End running solution 01/25 run 1/5
+> Running solution 01/25 run 2/5
+1316
+1344
+Time: 14990
+> End running solution 01/25 run 2/5
+> Running solution 01/25 run 3/5
+1316
+1344
+Time: 12874
+> End running solution 01/25 run 3/5
+> Running solution 01/25 run 4/5
+1316
+1344
+Time: 12769
+> End running solution 01/25 run 4/5
+> Running solution 01/25 run 5/5
+1316
+1344
+Time: 12729
+> End running solution 01/25 run 5/5
+> Running solution 02/25 run 1/5
+2102357
+2101031224
+Time: 13801
+> End running solution 02/25 run 1/5
+> Running solution 02/25 run 2/5
+2102357
+2101031224
+Time: 13184
+> End running solution 02/25 run 2/5
+> Running solution 02/25 run 3/5
+2102357
+2101031224
+Time: 13468
+> End running solution 02/25 run 3/5
+> Running solution 02/25 run 4/5
+2102357
+2101031224
+Time: 13423
+> End running solution 02/25 run 4/5
+> Running solution 02/25 run 5/5
+2102357
+2101031224
+Time: 13326
+> End running solution 02/25 run 5/5
+> Running solution 03/25 run 1/5
+3882564
+3385170
+Time: 32130
+> End running solution 03/25 run 1/5
+> Running solution 03/25 run 2/5
+3882564
+3385170
+Time: 31816
+> End running solution 03/25 run 2/5
+> Running solution 03/25 run 3/5
+3882564
+3385170
+Time: 32544
+> End running solution 03/25 run 3/5
+> Running solution 03/25 run 4/5
+3882564
+3385170
+Time: 17506
+> End running solution 03/25 run 4/5
+> Running solution 03/25 run 5/5
+3882564
+3385170
+Time: 18020
+> End running solution 03/25 run 5/5
+> Running solution 04/25 run 1/5
+14093
+17388
+Time: 22691
+> End running solution 04/25 run 1/5
+> Running solution 04/25 run 2/5
+14093
+17388
+Time: 22492
+> End running solution 04/25 run 2/5
+> Running solution 04/25 run 3/5
+14093
+17388
+Time: 22346
+> End running solution 04/25 run 3/5
+> Running solution 04/25 run 4/5
+14093
+17388
+Time: 22221
+> End running solution 04/25 run 4/5
+> Running solution 04/25 run 5/5
+14093
+17388
+Time: 21941
+> End running solution 04/25 run 5/5
+> Running solution 05/25 run 1/5
+6548
+19663
+Time: 64146
+> End running solution 05/25 run 1/5
+> Running solution 05/25 run 2/5
+6548
+19663
+Time: 115623
+> End running solution 05/25 run 2/5
+> Running solution 05/25 run 3/5
+6548
+19663
+Time: 118731
+> End running solution 05/25 run 3/5
+> Running solution 05/25 run 4/5
+6548
+19663
+Time: 118246
+> End running solution 05/25 run 4/5
+> Running solution 05/25 run 5/5
+6548
+19663
+Time: 120029
+> End running solution 05/25 run 5/5

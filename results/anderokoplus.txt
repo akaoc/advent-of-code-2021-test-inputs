@@ -1,0 +1,501 @@
+andero@AOC-VM:~/testing$ docker run anderokoplus -rm
+> Running solution 01/25 run 1/5
+1316
+1344
+Time: 330
+> End running solution 01/25 run 1/5
+> Running solution 01/25 run 2/5
+1316
+1344
+Time: 266
+> End running solution 01/25 run 2/5
+> Running solution 01/25 run 3/5
+1316
+1344
+Time: 266
+> End running solution 01/25 run 3/5
+> Running solution 01/25 run 4/5
+1316
+1344
+Time: 277
+> End running solution 01/25 run 4/5
+> Running solution 01/25 run 5/5
+1316
+1344
+Time: 272
+> End running solution 01/25 run 5/5
+> Running solution 02/25 run 1/5
+2102357
+2101031224
+Time: 293
+> End running solution 02/25 run 1/5
+> Running solution 02/25 run 2/5
+2102357
+2101031224
+Time: 273
+> End running solution 02/25 run 2/5
+> Running solution 02/25 run 3/5
+2102357
+2101031224
+Time: 267
+> End running solution 02/25 run 3/5
+> Running solution 02/25 run 4/5
+2102357
+2101031224
+Time: 580
+> End running solution 02/25 run 4/5
+> Running solution 02/25 run 5/5
+2102357
+2101031224
+Time: 264
+> End running solution 02/25 run 5/5
+> Running solution 03/25 run 1/5
+3882564
+3385170
+Time: 464
+> End running solution 03/25 run 1/5
+> Running solution 03/25 run 2/5
+3882564
+3385170
+Time: 439
+> End running solution 03/25 run 2/5
+> Running solution 03/25 run 3/5
+3882564
+3385170
+Time: 497
+> End running solution 03/25 run 3/5
+> Running solution 03/25 run 4/5
+3882564
+3385170
+Time: 435
+> End running solution 03/25 run 4/5
+> Running solution 03/25 run 5/5
+3882564
+3385170
+Time: 419
+> End running solution 03/25 run 5/5
+> Running solution 04/25 run 1/5
+14093
+17388
+Time: 1693
+> End running solution 04/25 run 1/5
+> Running solution 04/25 run 2/5
+14093
+17388
+Time: 1709
+> End running solution 04/25 run 2/5
+> Running solution 04/25 run 3/5
+14093
+17388
+Time: 1826
+> End running solution 04/25 run 3/5
+> Running solution 04/25 run 4/5
+14093
+17388
+Time: 1629
+> End running solution 04/25 run 4/5
+> Running solution 04/25 run 5/5
+14093
+17388
+Time: 1723
+> End running solution 04/25 run 5/5
+> Running solution 05/25 run 1/5
+6548
+19663
+Time: 91145
+> End running solution 05/25 run 1/5
+> Running solution 05/25 run 2/5
+6548
+19663
+Time: 87774
+> End running solution 05/25 run 2/5
+> Running solution 05/25 run 3/5
+6548
+19663
+Time: 92508
+> End running solution 05/25 run 3/5
+> Running solution 05/25 run 4/5
+6548
+19663
+Time: 108940
+> End running solution 05/25 run 4/5
+> Running solution 05/25 run 5/5
+6548
+19663
+Time: 104865
+> End running solution 05/25 run 5/5
+> Running solution 06/25 run 1/5
+374927
+1687617803407
+Time: 155
+> End running solution 06/25 run 1/5
+> Running solution 06/25 run 2/5
+374927
+1687617803407
+Time: 105
+> End running solution 06/25 run 2/5
+> Running solution 06/25 run 3/5
+374927
+1687617803407
+Time: 120
+> End running solution 06/25 run 3/5
+> Running solution 06/25 run 4/5
+374927
+1687617803407
+Time: 104
+> End running solution 06/25 run 4/5
+> Running solution 06/25 run 5/5
+374927
+1687617803407
+Time: 100
+> End running solution 06/25 run 5/5
+> Running solution 07/25 run 1/5
+342730
+92335207
+Time: 1771
+> End running solution 07/25 run 1/5
+> Running solution 07/25 run 2/5
+342730
+92335207
+Time: 1777
+> End running solution 07/25 run 2/5
+> Running solution 07/25 run 3/5
+342730
+92335207
+Time: 1807
+> End running solution 07/25 run 3/5
+> Running solution 07/25 run 4/5
+342730
+92335207
+Time: 1727
+> End running solution 07/25 run 4/5
+> Running solution 07/25 run 5/5
+342730
+92335207
+Time: 1725
+> End running solution 07/25 run 5/5
+> Running solution 08/25 run 1/5
+493
+1010460
+Time: 2020
+> End running solution 08/25 run 1/5
+> Running solution 08/25 run 2/5
+493
+1010460
+Time: 2032
+> End running solution 08/25 run 2/5
+> Running solution 08/25 run 3/5
+493
+1010460
+Time: 1983
+> End running solution 08/25 run 3/5
+> Running solution 08/25 run 4/5
+493
+1010460
+Time: 2128
+> End running solution 08/25 run 4/5
+> Running solution 08/25 run 5/5
+493
+1010460
+Time: 2082
+> End running solution 08/25 run 5/5
+> Running solution 09/25 run 1/5
+528
+920448
+Time: 724
+> End running solution 09/25 run 1/5
+> Running solution 09/25 run 2/5
+528
+920448
+Time: 678
+> End running solution 09/25 run 2/5
+> Running solution 09/25 run 3/5
+528
+920448
+Time: 692
+> End running solution 09/25 run 3/5
+> Running solution 09/25 run 4/5
+528
+920448
+Time: 677
+> End running solution 09/25 run 4/5
+> Running solution 09/25 run 5/5
+528
+920448
+Time: 699
+> End running solution 09/25 run 5/5
+> Running solution 10/25 run 1/5
+370407
+3249889609
+Time: 204
+> End running solution 10/25 run 1/5
+> Running solution 10/25 run 2/5
+370407
+3249889609
+Time: 185
+> End running solution 10/25 run 2/5
+> Running solution 10/25 run 3/5
+370407
+3249889609
+Time: 189
+> End running solution 10/25 run 3/5
+> Running solution 10/25 run 4/5
+370407
+3249889609
+Time: 188
+> End running solution 10/25 run 4/5
+> Running solution 10/25 run 5/5
+370407
+3249889609
+Time: 189
+> End running solution 10/25 run 5/5
+> Running solution 11/25 run 1/5
+1647
+348
+Time: 509
+> End running solution 11/25 run 1/5
+> Running solution 11/25 run 2/5
+1647
+348
+Time: 468
+> End running solution 11/25 run 2/5
+> Running solution 11/25 run 3/5
+1647
+348
+Time: 499
+> End running solution 11/25 run 3/5
+> Running solution 11/25 run 4/5
+1647
+348
+Time: 485
+> End running solution 11/25 run 4/5
+> Running solution 11/25 run 5/5
+1647
+348
+Time: 496
+> End running solution 11/25 run 5/5
+> Running solution 12/25 run 1/5
+5076
+145643
+Time: 490588
+> End running solution 12/25 run 1/5
+> Running solution 12/25 run 2/5
+5076
+145643
+Time: 324996
+> End running solution 12/25 run 2/5
+> Running solution 12/25 run 3/5
+5076
+145643
+Time: 320098
+> End running solution 12/25 run 3/5
+> Running solution 12/25 run 4/5
+5076
+145643
+Time: 319045
+> End running solution 12/25 run 4/5
+> Running solution 12/25 run 5/5
+5076
+145643
+Time: 322534
+> End running solution 12/25 run 5/5
+> Running solution 13/25 run 1/5
+669
+#..#.####.####.####..##..#..#..##....##..
+#..#.#....#.......#.#..#.#..#.#..#....#..
+#..#.###..###....#..#....#..#.#.......#..
+#..#.#....#.....#...#....#..#.#.......#..
+#..#.#....#....#....#..#.#..#.#..#.#..#..
+.##..####.#....####..##...##...##...##...
+.........................................
+Time: 664168
+> End running solution 13/25 run 1/5
+> Running solution 13/25 run 2/5
+669
+#..#.####.####.####..##..#..#..##....##..
+#..#.#....#.......#.#..#.#..#.#..#....#..
+#..#.###..###....#..#....#..#.#.......#..
+#..#.#....#.....#...#....#..#.#.......#..
+#..#.#....#....#....#..#.#..#.#..#.#..#..
+.##..####.#....####..##...##...##...##...
+.........................................
+Time: 665553
+> End running solution 13/25 run 2/5
+> Running solution 13/25 run 3/5
+669
+#..#.####.####.####..##..#..#..##....##..
+#..#.#....#.......#.#..#.#..#.#..#....#..
+#..#.###..###....#..#....#..#.#.......#..
+#..#.#....#.....#...#....#..#.#.......#..
+#..#.#....#....#....#..#.#..#.#..#.#..#..
+.##..####.#....####..##...##...##...##...
+.........................................
+Time: 666720
+> End running solution 13/25 run 3/5
+> Running solution 13/25 run 4/5
+669
+#..#.####.####.####..##..#..#..##....##..
+#..#.#....#.......#.#..#.#..#.#..#....#..
+#..#.###..###....#..#....#..#.#.......#..
+#..#.#....#.....#...#....#..#.#.......#..
+#..#.#....#....#....#..#.#..#.#..#.#..#..
+.##..####.#....####..##...##...##...##...
+.........................................
+Time: 668232
+> End running solution 13/25 run 4/5
+> Running solution 13/25 run 5/5
+669
+#..#.####.####.####..##..#..#..##....##..
+#..#.#....#.......#.#..#.#..#.#..#....#..
+#..#.###..###....#..#....#..#.#.......#..
+#..#.#....#.....#...#....#..#.#.......#..
+#..#.#....#....#....#..#.#..#.#..#.#..#..
+.##..####.#....####..##...##...##...##...
+.........................................
+Time: 668781
+> End running solution 13/25 run 5/5
+> Running solution 14/25 run 1/5
+3118
+4332887448171
+Time: 7102
+> End running solution 14/25 run 1/5
+> Running solution 14/25 run 2/5
+3118
+4332887448171
+Time: 6720
+> End running solution 14/25 run 2/5
+> Running solution 14/25 run 3/5
+3118
+4332887448171
+Time: 6680
+> End running solution 14/25 run 3/5
+> Running solution 14/25 run 4/5
+3118
+4332887448171
+Time: 6666
+> End running solution 14/25 run 4/5
+> Running solution 14/25 run 5/5
+3118
+4332887448171
+Time: 6698
+> End running solution 14/25 run 5/5
+> Running solution 15/25 run 1/5
+456
+2831
+Time: 61520
+> End running solution 15/25 run 1/5
+> Running solution 15/25 run 2/5
+456
+2831
+Time: 61179
+> End running solution 15/25 run 2/5
+> Running solution 15/25 run 3/5
+456
+2831
+Time: 61286
+> End running solution 15/25 run 3/5
+> Running solution 15/25 run 4/5
+456
+2831
+Time: 61449
+> End running solution 15/25 run 4/5
+> Running solution 15/25 run 5/5
+456
+2831
+Time: 61342
+> End running solution 15/25 run 5/5
+> Running solution 17/25 run 1/5
+8646
+5945
+Time: 102784
+> End running solution 17/25 run 1/5
+> Running solution 17/25 run 2/5
+8646
+5945
+Time: 104704
+> End running solution 17/25 run 2/5
+> Running solution 17/25 run 3/5
+8646
+5945
+Time: 102670
+> End running solution 17/25 run 3/5
+> Running solution 17/25 run 4/5
+8646
+5945
+Time: 102741
+> End running solution 17/25 run 4/5
+> Running solution 17/25 run 5/5
+8646
+5945
+Time: 102669
+> End running solution 17/25 run 5/5
+> Running solution 18/25 run 1/5
+terminate called after throwing an instance of 'std::bad_alloc'
+  what():  std::bad_alloc
+> End running solution 18/25 run 1/5
+./run.sh: line 4:   106 Aborted                 (core dumped) ./"${filename}"
+> Running solution 18/25 run 2/5
+terminate called after throwing an instance of 'std::bad_alloc'
+  what():  std::bad_alloc
+> End running solution 18/25 run 2/5
+> Running solution 18/25 run 3/5
+./run.sh: line 4:   107 Aborted                 (core dumped) ./"${filename}"
+terminate called after throwing an instance of 'std::bad_alloc'
+  what():  std::bad_alloc
+> End running solution 18/25 run 3/5
+./run.sh: line 4:   108 Aborted                 (core dumped) ./"${filename}"
+> Running solution 18/25 run 4/5
+terminate called after throwing an instance of 'std::bad_alloc'
+  what():  std::bad_alloc
+> End running solution 18/25 run 4/5
+./run.sh: line 4:   109 Aborted                 (core dumped) ./"${filename}"
+> Running solution 18/25 run 5/5
+terminate called after throwing an instance of 'std::bad_alloc'
+  what():  std::bad_alloc
+> End running solution 18/25 run 5/5
+./run.sh: line 4:   110 Aborted                 (core dumped) ./"${filename}"
+> Running solution 20/25 run 1/5
+5339
+18395
+Time: 14377
+> End running solution 20/25 run 1/5
+> Running solution 20/25 run 2/5
+5339
+18395
+Time: 13169
+> End running solution 20/25 run 2/5
+> Running solution 20/25 run 3/5
+5339
+18395
+Time: 12946
+> End running solution 20/25 run 3/5
+> Running solution 20/25 run 4/5
+5339
+18395
+Time: 12875
+> End running solution 20/25 run 4/5
+> Running solution 20/25 run 5/5
+5339
+18395
+Time: 12948
+> End running solution 20/25 run 5/5
+> Running solution 25/25 run 1/5
+417
+Time: 89926
+> End running solution 25/25 run 1/5
+> Running solution 25/25 run 2/5
+417
+Time: 88128
+> End running solution 25/25 run 2/5
+> Running solution 25/25 run 3/5
+417
+Time: 88258
+> End running solution 25/25 run 3/5
+> Running solution 25/25 run 4/5
+417
+Time: 87622
+> End running solution 25/25 run 4/5
+> Running solution 25/25 run 5/5
+417
+Time: 87741
+> End running solution 25/25 run 5/5

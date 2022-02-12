@@ -1,0 +1,199 @@
+andero@AOC-VM:~/testing$ docker run reviskar -rm
+> Running solution 01/25 run 1/2
+1316
+1344
+Time: 2500
+> End running solution 01/25 run 1/2
+> Running solution 01/25 run 2/2
+1316
+1344
+Time: 1461
+> End running solution 01/25 run 2/2
+> Running solution 02/25 run 1/2
+2102357
+2101031224
+Time: 961
+> End running solution 02/25 run 1/2
+> Running solution 02/25 run 2/2
+2102357
+2101031224
+Time: 983
+> End running solution 02/25 run 2/2
+> Running solution 03/25 run 1/2
+3882564
+
+Warning: Undefined array key 9 in /app/src/day03/Submarine.php on line 43
+
+Fatal error: Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /app/src/day03/Submarine.php:44
+Stack trace:
+#0 /app/src/day03/Submarine.php(44): count(NULL)
+#1 /app/src/day03/day03.php(14): App\day03\Submarine->getRatings()
+#2 {main}
+  thrown in /app/src/day03/Submarine.php on line 44
+> End running solution 03/25 run 1/2
+> Running solution 03/25 run 2/2
+3882564
+
+Warning: Undefined array key 9 in /app/src/day03/Submarine.php on line 43
+
+Fatal error: Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /app/src/day03/Submarine.php:44
+Stack trace:
+#0 /app/src/day03/Submarine.php(44): count(NULL)
+#1 /app/src/day03/day03.php(14): App\day03\Submarine->getRatings()
+#2 {main}
+  thrown in /app/src/day03/Submarine.php on line 44
+> End running solution 03/25 run 2/2
+> Running solution 04/25 run 1/2
+14093
+17388
+Time: 3648
+> End running solution 04/25 run 1/2
+> Running solution 04/25 run 2/2
+14093
+17388
+Time: 3617
+> End running solution 04/25 run 2/2
+> Running solution 05/25 run 1/2
+6548
+19663
+Time: 101157
+> End running solution 05/25 run 1/2
+> Running solution 05/25 run 2/2
+6548
+19663
+Time: 105569
+> End running solution 05/25 run 2/2
+> Running solution 06/25 run 1/2
+374927
+1687617803407
+Time: 314
+> End running solution 06/25 run 1/2
+> Running solution 06/25 run 2/2
+374927
+1687617803407
+Time: 311
+> End running solution 06/25 run 2/2
+> Running solution 07/25 run 1/2
+342730
+92335207
+Time: 13038
+> End running solution 07/25 run 1/2
+> Running solution 07/25 run 2/2
+342730
+92335207
+Time: 13016
+> End running solution 07/25 run 2/2
+> Running solution 08/25 run 1/2
+493
+1010460
+Time: 5377
+> End running solution 08/25 run 1/2
+> Running solution 08/25 run 2/2
+493
+1010460
+Time: 4989
+> End running solution 08/25 run 2/2
+> Running solution 09/25 run 1/2
+528
+920448
+Time: 204426
+> End running solution 09/25 run 1/2
+> Running solution 09/25 run 2/2
+528
+920448
+Time: 202733
+> End running solution 09/25 run 2/2
+> Running solution 10/25 run 1/2
+370407
+3249889609
+Time: 2123
+> End running solution 10/25 run 1/2
+> Running solution 10/25 run 2/2
+370407
+3249889609
+Time: 2105
+> End running solution 10/25 run 2/2
+> Running solution 11/25 run 1/2
+1647
+348
+Time: 10656
+> End running solution 11/25 run 1/2
+> Running solution 11/25 run 2/2
+1647
+348
+Time: 10614
+> End running solution 11/25 run 2/2
+> Running solution 12/25 run 1/2
+
+Fatal error: Uncaught Error: Class "App\day12\Folding" not found in /app/src/day12/day12.php:8
+Stack trace:
+#0 {main}
+  thrown in /app/src/day12/day12.php on line 8
+> End running solution 12/25 run 1/2
+> Running solution 12/25 run 2/2
+
+Fatal error: Uncaught Error: Class "App\day12\Folding" not found in /app/src/day12/day12.php:8
+Stack trace:
+#0 {main}
+  thrown in /app/src/day12/day12.php on line 8
+> End running solution 12/25 run 2/2
+> Running solution 13/25 run 1/2
+669
+#  # #### #### ####  ##  #  #  ##    ##
+#  # #    #       # #  # #  # #  #    #
+#  # ###  ###    #  #    #  # #       #
+#  # #    #     #   #    #  # #       #
+#  # #    #    #    #  # #  # #  # #  #
+ ##  #### #    ####  ##   ##   ##   ##
+Time: 72754
+> End running solution 13/25 run 1/2
+> Running solution 13/25 run 2/2
+669
+#  # #### #### ####  ##  #  #  ##    ##
+#  # #    #       # #  # #  # #  #    #
+#  # ###  ###    #  #    #  # #       #
+#  # #    #     #   #    #  # #       #
+#  # #    #    #    #  # #  # #  # #  #
+ ##  #### #    ####  ##   ##   ##   ##
+Time: 73655
+> End running solution 13/25 run 2/2
+> Running solution 14/25 run 1/2
+3118
+4332887448171
+Time: 3490
+> End running solution 14/25 run 1/2
+> Running solution 14/25 run 2/2
+3118
+4332887448171
+Time: 2883
+> End running solution 14/25 run 2/2
+> Running solution 15/25 run 1/2
+456
+2831
+Time: 20174307
+> End running solution 15/25 run 1/2
+> Running solution 15/25 run 2/2
+456
+2831
+Time: 14188098
+> End running solution 15/25 run 2/2
+> Running solution 16/25 run 1/2
+1014
+1922490999789
+Time: 1379
+> End running solution 16/25 run 1/2
+> Running solution 16/25 run 2/2
+1014
+1922490999789
+Time: 1401
+> End running solution 16/25 run 2/2
+> Running solution 17/25 run 1/2
+5050
+3900
+Time: 592420
+> End running solution 17/25 run 1/2
+> Running solution 17/25 run 2/2
+5050
+3900
+Time: 594607
+> End running solution 17/25 run 2/2

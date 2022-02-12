@@ -1,0 +1,120 @@
+andero@AOC-VM:~/testing$ docker run tanelhiob -rm
+warmup ./01/program01
+1316
+1344
+time: 380
+1316
+1344
+time: 180
+1316
+1344
+time: 168
+1316
+1344
+time: 182
+executing ./01/program01
+1316
+1344
+time: 176
+warmup ./02/program02
+2102357
+2101031224
+time: 110
+2102357
+2101031224
+time: 106
+2102357
+2101031224
+time: 99
+2102357
+2101031224
+time: 110
+executing ./02/program02
+2102357
+2101031224
+time: 107
+warmup ./03/program03
+3882564
+3385170
+time: 141
+3882564
+3385170
+time: 114
+3882564
+3385170
+time: 106
+3882564
+3385170
+time: 109
+executing ./03/program03
+3882564
+3385170
+time: 106
+warmup ./04/program04
+14093
+17388
+time: 898
+14093
+17388
+time: 878
+14093
+17388
+time: 910
+14093
+17388
+time: 844
+executing ./04/program04
+14093
+17388
+time: 885
+warmup ./05/program05
+6548
+19663
+time: 5235
+6548
+19663
+time: 3839
+6548
+19663
+time: 3162
+6548
+19663
+time: 3335
+executing ./05/program05
+6548
+19663
+time: 3165
+warmup ./06/program06
+374927
+1687617803407
+time: 59
+374927
+1687617803407
+time: 53
+374927
+1687617803407
+time: 53
+374927
+1687617803407
+time: 55
+executing ./06/program06
+374927
+1687617803407
+time: 47
+warmup ./07/program07
+342730
+92335207
+time: 1894
+342730
+92335207
+time: 1825
+342730
+92335207
+time: 1969
+342730
+92335207
+time: 1852
+executing ./07/program07
+342730
+92335207
+time: 1939

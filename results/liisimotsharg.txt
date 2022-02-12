@@ -1,0 +1,149 @@
+andero@AOC-VM:~/testing$ docker run liisimotsharg -rm
+> Running solution 01/25 run 1/5
+> End running solution 01/25 run 1/5
+> Running solution 01/25 run 2/5
+> End running solution 01/25 run 2/5
+> Running solution 01/25 run 3/5
+> End running solution 01/25 run 3/5
+> Running solution 01/25 run 4/5
+> End running solution 01/25 run 4/5
+> Running solution 01/25 run 5/5
+1316
+1344
+Time: 25995
+> End running solution 01/25 run 5/5
+> Running solution 02/25 run 1/5
+> End running solution 02/25 run 1/5
+> Running solution 02/25 run 2/5
+> End running solution 02/25 run 2/5
+> Running solution 02/25 run 3/5
+> End running solution 02/25 run 3/5
+> Running solution 02/25 run 4/5
+> End running solution 02/25 run 4/5
+> Running solution 02/25 run 5/5
+2102357
+2101031224
+Time: 16432
+> End running solution 02/25 run 5/5
+> Running solution 03/25 run 1/5
+> End running solution 03/25 run 1/5
+> Running solution 03/25 run 2/5
+> End running solution 03/25 run 2/5
+> Running solution 03/25 run 3/5
+> End running solution 03/25 run 3/5
+> Running solution 03/25 run 4/5
+> End running solution 03/25 run 4/5
+> Running solution 03/25 run 5/5
+3882564
+3385170
+Time: 16624
+> End running solution 03/25 run 5/5
+> Running solution 04/25 run 1/5
+> End running solution 04/25 run 1/5
+> Running solution 04/25 run 2/5
+> End running solution 04/25 run 2/5
+> Running solution 04/25 run 3/5
+> End running solution 04/25 run 3/5
+> Running solution 04/25 run 4/5
+> End running solution 04/25 run 4/5
+> Running solution 04/25 run 5/5
+14093
+17388
+Time: 34224
+> End running solution 04/25 run 5/5
+> Running solution 05/25 run 1/5
+> End running solution 05/25 run 1/5
+> Running solution 05/25 run 2/5
+> End running solution 05/25 run 2/5
+> Running solution 05/25 run 3/5
+> End running solution 05/25 run 3/5
+> Running solution 05/25 run 4/5
+> End running solution 05/25 run 4/5
+> Running solution 05/25 run 5/5
+6548
+19663
+Time: 57273
+> End running solution 05/25 run 5/5
+> Running solution 06/25 run 1/5
+> End running solution 06/25 run 1/5
+> Running solution 06/25 run 2/5
+> End running solution 06/25 run 2/5
+> Running solution 06/25 run 3/5
+> End running solution 06/25 run 3/5
+> Running solution 06/25 run 4/5
+> End running solution 06/25 run 4/5
+> Running solution 06/25 run 5/5
+374927
+1687617803407
+Time: 26869
+> End running solution 06/25 run 5/5
+> Running solution 07/25 run 1/5
+> End running solution 07/25 run 1/5
+> Running solution 07/25 run 2/5
+> End running solution 07/25 run 2/5
+> Running solution 07/25 run 3/5
+> End running solution 07/25 run 3/5
+> Running solution 07/25 run 4/5
+> End running solution 07/25 run 4/5
+> Running solution 07/25 run 5/5
+342730
+92335207
+Time: 6514131
+> End running solution 07/25 run 5/5
+> Running solution 08/25 run 1/5
+> End running solution 08/25 run 1/5
+> Running solution 08/25 run 2/5
+> End running solution 08/25 run 2/5
+> Running solution 08/25 run 3/5
+> End running solution 08/25 run 3/5
+> Running solution 08/25 run 4/5
+> End running solution 08/25 run 4/5
+> Running solution 08/25 run 5/5
+493
+1010460
+Time: 46058
+> End running solution 08/25 run 5/5
+> Running solution 10/25 run 1/5
+> End running solution 10/25 run 1/5
+> Running solution 10/25 run 2/5
+> End running solution 10/25 run 2/5
+> Running solution 10/25 run 3/5
+> End running solution 10/25 run 3/5
+> Running solution 10/25 run 4/5
+> End running solution 10/25 run 4/5
+> Running solution 10/25 run 5/5
+370407
+3249889609
+Time: 34638
+> End running solution 10/25 run 5/5
+> Running solution 11/25 run 1/5
+> End running solution 11/25 run 1/5
+> Running solution 11/25 run 2/5
+> End running solution 11/25 run 2/5
+> Running solution 11/25 run 3/5
+> End running solution 11/25 run 3/5
+> Running solution 11/25 run 4/5
+> End running solution 11/25 run 4/5
+> Running solution 11/25 run 5/5
+1647
+348
+Time: 17112
+> End running solution 11/25 run 5/5
+> Running solution 13/25 run 1/5
+> End running solution 13/25 run 1/5
+> Running solution 13/25 run 2/5
+> End running solution 13/25 run 2/5
+> Running solution 13/25 run 3/5
+> End running solution 13/25 run 3/5
+> Running solution 13/25 run 4/5
+> End running solution 13/25 run 4/5
+> Running solution 13/25 run 5/5
+669
+#..#.####.####.####..##..#..#..##....##.
+#..#.#....#.......#.#..#.#..#.#..#....#.
+#..#.###..###....#..#....#..#.#.......#.
+#..#.#....#.....#...#....#..#.#.......#.
+#..#.#....#....#....#..#.#..#.#..#.#..#.
+.##..####.#....####..##...##...##...##..
+Time: 80797
+> End running solution 13/25 run 5/5
